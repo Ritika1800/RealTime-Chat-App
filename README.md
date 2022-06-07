@@ -1,4 +1,4 @@
-# Real-Time-Chat-App 👨🏻‍💻 
+<h1 align="center" font-weight= "bold">Real-Time-Chat-App 👨🏻‍💻 </h1>
 A simple Real-time chat application using Nodejs, Express and Socket.io with Vanilla JS on the frontend.
 <br>
 <h2>Features</h2>
@@ -42,6 +42,5 @@ This project uses :
   #
   <h1 align="center"> 🚀 Screenshoots  </h1>
   
-  ![Home page](https://user-images.githubusercontent.com/78023954/172102431-bfaabc0f-0dcd-4e7c-ac06-5e288a078810.png)
-  
-  ![Chat page](https://user-images.githubusercontent.com/78023954/172102477-0a59b1f2-1f72-4ae3-8f6c-60567bc0993c.png)
+ ![Screenshot (119)](https://user-images.githubusercontent.com/78023954/172306868-d5c9c5c8-c4dc-49ec-91ac-9a272b0535f2.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/78023954/172306889-904f82d2-8998-4cba-a938-e8ea03e03e97.png)
